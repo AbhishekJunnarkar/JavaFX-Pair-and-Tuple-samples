@@ -1,4 +1,4 @@
-package com.pair.pairexample;
+package com.pair.Custom_Pair_Class_Impl;
 
 import java.util.ArrayList;
 import java.util.HashSet;
@@ -59,7 +59,7 @@ class Pair<U, V>
 }
 
 // Program to implement Pair Class in Java
-class Pairs
+class CustomPairImpl
 {
     public static void main(String[] args)
     {

@@ -1,4 +1,4 @@
-package com.pair.pairusingjavafxutilpair;
+package com.pair.pair_using_javafx_util_pair;
 
 import javafx.util.Pair;
 

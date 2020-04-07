@@ -1,4 +1,4 @@
-package com.pair.pairusingmapentry;
+package com.pair.pair_using_map_entry;
 
 import java.util.AbstractMap;
 import java.util.HashSet;

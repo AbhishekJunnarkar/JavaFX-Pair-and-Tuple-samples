@@ -1,4 +1,4 @@
-package com.pair.paircollectionssingletonmap;
+package com.pair.pair_collections_singleton_map;
 
 import java.util.Collections;
 import java.util.HashSet;
@@ -15,7 +15,7 @@ class Pair
     }
 }
 
-class Tuple
+class PairImpl
 {
     // Implement Pair class in Java using Collections.singletonMap()
     public static void main(String[] args)
@@ -26,6 +26,6 @@ class Tuple
         entries.add(Pair.of("Tom", 30));
         entries.add(Pair.of("John", 26));
 
-        System.out.println(entries);
+        System.out.println("Set to provide unique entries: "+entries);
     }
 }

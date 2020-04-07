@@ -1,4 +1,4 @@
-package com.pair.pairTuplesLibrary;
+package com.pair.pair_using_org_javatuplesLib;
 
 import org.javatuples.Pair;
 
